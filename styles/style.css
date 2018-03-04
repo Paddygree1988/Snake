@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#wrapper {
+  position: relative;
+}
+
+#score {
+  margin-left: 620px;
+  position:absolute;
+  top: 0;
+}
